@@ -6,6 +6,7 @@ The proposed research work is carried on potato crop. In a survey, 61.33% of far
 
 # Dataset used for the project
 
+  https://drive.google.com/drive/u/0/folders/1gSvrJRs56C15fE7LnpOvx6XD_GDKF6Rc
 
 # Objectives
 
