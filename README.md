@@ -35,7 +35,7 @@ The proposed research work is carried on potato crop. In a survey, 61.33% of far
  - We made use of the saved models for building a front end for the application using tkinter.
  - Front end takes input as image from the user and predicts the disease for the particular image.
  
- Python command to run the front end: **python FrontEnd.py**
+ Python command to run the front end: **python frontEnd.py**
  
  Screenshots:
  
