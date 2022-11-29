@@ -15,13 +15,19 @@ The proposed research work is carried on potato crop. In a survey, 61.33% of far
  - Use transfer learning algorithms to predict disease.
 
 # Modules used for the project:
+
  1. Keras
  2. Tensorflow
  3. OpenCv
  4. Matplotlib
  5. Image library (PIL)
  6. Tkinter
- 
+
+# Instructions to run .ipynb file.
+
+ - GPU is required to run PlantDise.ipynb.
+ - Make sure all the modules specified above should be installed using pip.
+
 # Our work:
 
  - We carried out the work in four different cases(i.e., building four different models and picking the efficient model for predicting)
