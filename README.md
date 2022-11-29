@@ -35,10 +35,15 @@ The proposed research work is carried on potato crop. In a survey, 61.33% of far
  - Front end takes input as image from the user and predicts the disease for the particular image.
  
  Python command to run the front end: **python FrontEnd.py**
+ 
  Screenshots:
+ 
  **Before inserting the image**
+ 
  ![db_project_frontEnd2](https://user-images.githubusercontent.com/53054775/204454408-24434fe5-50db-4c84-a853-0939999ff3f1.png)
+ 
  **After clicking on Detect Disease button**
+ 
  ![db_project_frontEnd1](https://user-images.githubusercontent.com/53054775/204454687-8df6c838-bb9f-403a-bd60-957df90aa809.png)
 
  
